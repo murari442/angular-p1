@@ -21,7 +21,7 @@
     {
       "text": "Play badminton",
       "day": "Dec 24th 8:00am",
-      "reminder": true,
+      "reminder": false,
       "id": 4
     },
     {
