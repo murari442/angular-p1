@@ -16,19 +16,13 @@
       "id": 3,
       "text": "Food Shopping",
       "day": "Jan 7th at 2:30pm",
-      "reminder": false
+      "reminder": true
     },
     {
-      "text": "Play badminton",
-      "day": "Dec 24th 8:00am",
+      "text": "Celebrate Chrismas",
+      "day": "Dec 25th 10am",
       "reminder": false,
       "id": 4
-    },
-    {
-      "text": "Drive Car",
-      "day": "Dec 24th 1:00pm",
-      "reminder": false,
-      "id": 5
     }
   ]
 }
